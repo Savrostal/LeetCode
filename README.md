@@ -1,1 +1,1 @@
-# study-of-algorithms-and-data-structures
+# LeetCode
