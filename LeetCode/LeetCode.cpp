@@ -1,7 +1,4 @@
-﻿// LeetCode.cpp: определяет точку входа для приложения.
-//
-
-#include "LeetCode.h"
+﻿#include "LeetCode.h"
 
 using namespace std;
 
